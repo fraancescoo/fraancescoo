@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm Francesco Piantone, a passionate Coding with a
 
 - **Name**: Francesco Piantone
 - **Location**: Italy
-<!-- - **Email**: -->
+- **Email**:
 - **Website/Blog**: [Your Personal Website or Blog]
 - **LinkedIn**: [Your LinkedIn Profile]
 - **Twitter**: [@NotRealFrancy_](https://twitter.com/NotRealFrancy_)
