@@ -10,5 +10,5 @@ Welcome to my GitHub profile! I'm Francesco Piantone, a passionate Coding with a
 - **Name**: Francesco Piantone
 - **Location**: Italy
 - **Twitter**: [@NotRealFrancy_](https://twitter.com/NotRealFrancy_)
-
+⠀
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotRealFrancy)](https://github.com/NotRealFrancy/)
