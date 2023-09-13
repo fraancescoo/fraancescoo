@@ -12,6 +12,5 @@ Welcome to my GitHub profile! I'm Francesco Piantone, a passionate Coding with a
 - **Twitter**: [@NotRealFrancy_](https://twitter.com/NotRealFrancy_)
 
 ## My Statistics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotRealFrancy)](https://github.com/NotRealFrancy/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotRealFrancy&show_icons=true&theme=transparent)](https://github.com/NotRealFrancy/)
