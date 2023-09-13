@@ -1,22 +1,18 @@
-Sure, here's an example of a professional README for your GitHub profile:
-
----
-
-# [Your Name] GitHub Profile
+# Francesco Piantone GitHub Profile
 
 [![GitHub followers](https://img.shields.io/github/followers/NotRealFrancy?label=Follow&style=social)](https://github.com/NotRealFrancy)
 [![GitHub stars](https://img.shields.io/github/stars/NotRealFrancy?style=social)](https://github.com/NotRealFrancy)
 
-Welcome to my GitHub profile! I'm [Your Name], a passionate [your profession/field] with a strong interest in [mention your main areas of interest or expertise]. Here, you'll find a collection of my projects, contributions, and open-source work. Feel free to explore and reach out if you have any questions or collaboration opportunities.
+Welcome to my GitHub profile! I'm Francesco Piantone, a passionate Coding with a strong interest in Java and Web development. Here, you'll find a collection of my projects, contributions, and open-source work. Feel free to explore and reach out if you have any questions or collaboration opportunities.
 
 ## About Me
 
-- **Name**: [Your Full Name]
-- **Location**: [Your Location]
-- **Email**: [Your Email Address]
+- **Name**: Francesco Piantone
+- **Location**: Italy
+<!-- - **Email**: -->
 - **Website/Blog**: [Your Personal Website or Blog]
 - **LinkedIn**: [Your LinkedIn Profile]
-- **Twitter**: [Your Twitter Handle]
+- **Twitter**: [@NotRealFrancy_](https://twitter.com/NotRealFrancy_)
 
 ## Projects
 
