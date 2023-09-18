@@ -15,4 +15,5 @@ Welcome to my GitHub profile! I'm Francesco Piantone, a passionate Coding with a
 
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=NotRealFrancy\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/NotRealFrancy)
 
-[![CheatSentry Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=NotRealFrancy&repo=CheatSentry)](https://github.com/NotRealFrancy)
+[![CheatSentry Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=NotRealFrancy&repo=CheatSentry)](https://github.com/NotRealFrancy/CheatSentry)
+[![CheatSentry Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=NotRealFrancy&repo=HikariKiyoshi)](https://github.com/NotRealFrancy/HikariKiyoshi)
