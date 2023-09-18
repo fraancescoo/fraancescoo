@@ -1,4 +1,4 @@
-> # Francesco Piantone GitHub Profile
+# Francesco Piantone GitHub Profile
 
 [![GitHub followers](https://img.shields.io/github/followers/NotRealFrancy?label=Follow&style=social)](https://github.com/NotRealFrancy)
 [![GitHub stars](https://img.shields.io/github/stars/NotRealFrancy?style=social)](https://github.com/NotRealFrancy)
