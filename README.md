@@ -11,6 +11,19 @@ Welcome to my GitHub profile! I'm Francesco Piantone, a passionate Coding with a
 - **Location**: Italy
 - **Twitter**: [@NotRealFrancy_](https://twitter.com/NotRealFrancy_)
 
+## My Skills
+
+☕ » Senior Java Developer
+🌐 » Senior Full-Stack Web Developer
+🐍 » Medium Python Developer
+🟣 » Medium C/C++/C# Developer
+🧊 » Junior Unity & UE5 Developer
+🔸 » Medium Blender Developer
+🐘 » Medium PHP Developer
+🗃 » Medium SQL Developer
+🔵 » Junior LUA Developer
+🐱 » Senior Scratch Developer
+
 ## My Statistics
 
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=NotRealFrancy\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/NotRealFrancy)
