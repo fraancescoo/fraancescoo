@@ -13,16 +13,16 @@ Welcome to my GitHub profile! I'm Francesco Piantone, a passionate Coding with a
 
 ## My Skills
 
-☕ » Senior Java Developer
-🌐 » Senior Full-Stack Web Developer
-🐍 » Medium Python Developer
-🟣 » Medium C/C++/C# Developer
-🧊 » Junior Unity & UE5 Developer
-🔸 » Medium Blender Developer
-🐘 » Medium PHP Developer
-🗃 » Medium SQL Developer
-🔵 » Junior LUA Developer
-🐱 » Senior Scratch Developer
+<p>☕ » Senior Java Developer</p>
+<p>🌐 » Senior Full-Stack Web Developer</p>
+<p>🐍 » Medium Python Developer</p>
+<p>🟣 » Medium C/C++/C# Developer</p>
+<p>🧊 » Junior Unity & UE5 Developer</p>
+<p>🔸 » Medium Blender Developer</p>
+<p>🐘 » Medium PHP Developer</p>
+<p>🗃 » Medium SQL Developer</p>
+<p>🔵 » Junior LUA Developer</p>
+<p>🐱 » Senior Scratch Developer</p>
 
 ## My Statistics
 
