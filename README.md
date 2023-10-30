@@ -32,4 +32,4 @@ Welcome to my GitHub profile! I'm Francesco Piantone, a passionate Coding with a
 [![HikariKiyoshi Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=NotRealFrancy&repo=HikariKiyoshi)](https://github.com/NotRealFrancy/HikariKiyoshi)
 
 ### Secondary Projects
-[![MongoSpigot Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=NotRealFrancy&repo=MongoSpigot)](https://github.com/NotRealFrancy/MongoSpigot)
+[![MongoMinecraft Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=NotRealFrancy&repo=MongoMinecraft)](https://github.com/NotRealFrancy/MongoMinecraft)
