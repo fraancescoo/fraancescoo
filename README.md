@@ -24,6 +24,8 @@ Welcome to my GitHub profile! I'm Francesco Piantone, a passionate Coding with a
 <p>🔵 » Junior LUA Developer</p>
 <p>🐱 » Senior Scratch Developer</p>
 
+Working on a new Database System!
+
 ## My Statistics
 
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=NotRealFrancy\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/NotRealFrancy)
