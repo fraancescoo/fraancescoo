@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm Francesco Piantone, a passionate Coding with a
 <p>🐘 » Medium PHP Developer</p>
 <p>🗃 » Medium SQL Developer</p>
 <p>🔵 » Junior LUA Developer</p>
-<p>🐱 » Senior Scratch Developer</p>
+<p>🐱 » Senior Scratch "Developer"</p>
 
 ## My Statistics
 
