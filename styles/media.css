@@ -1,0 +1,44 @@
+@media only screen and (max-width: 1280px) and (max-height: 950px) {
+
+    .page {
+        overflow: scroll;
+    }
+
+    .page1 {
+        position: absolute;
+        height: 30vh;
+    }
+
+    .page1 ul li a {
+        font-size: 1.5rem;
+    }
+    
+    .title {
+        font-size: 2.5rem;
+    }
+
+    .page2 {
+        position: absolute;
+        top: 30vh;
+        height: auto;
+    }
+
+    .page4 {
+        position: absolute;
+        top: 130vh;
+    }
+
+    .page3 {
+        position: absolute;
+        top: 230vh;
+    }
+
+}
+
+@media only screen and (max-width: 810px) and (max-height: 1080px) {
+
+    .page {
+        overflow: scroll;
+    }
+
+}
