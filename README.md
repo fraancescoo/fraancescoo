@@ -1,4 +1,4 @@
-# Francesco Piantone GitHub Profile
+# Francesco Piantone
 
 [![GitHub followers](https://img.shields.io/github/followers/fraancescoo?label=Follow&style=social)](https://github.com/fraancescoo)
 [![GitHub stars](https://img.shields.io/github/stars/fraancescoo?style=social)](https://github.com/fraancescoo)
